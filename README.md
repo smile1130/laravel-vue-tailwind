@@ -22,10 +22,6 @@ Setup Directions
 10. ```php artisan serve```
 11. ```Goto: http://localhost:8000```
 
-<a href="https://www.youtube.com/playlist?list=PLbdS49WKsrOXTo_X_Ja6P3zll1yyhoIYN" target="_blank">
-<img src="https://core.tailadmin.dev/img/misc/tailadmin-youtube-main-demo.png" alt="TailAdmin Demo"/>
-</a>
-
 ## Featured :
 
 - TailwindCSS
