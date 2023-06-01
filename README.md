@@ -22,22 +22,9 @@ Setup Directions
 10. ```php artisan serve```
 11. ```Goto: http://localhost:8000```
 
-Admin Login Infos / Demo Account
-------
-
-- **Demo:** *[https://v2.tailadmin.dev](https://v2.tailadmin.dev)*
-- **Email:** *admin@tailadmin.dev*
-- **Password:** *admin*
-
 <a href="https://www.youtube.com/playlist?list=PLbdS49WKsrOXTo_X_Ja6P3zll1yyhoIYN" target="_blank">
 <img src="https://core.tailadmin.dev/img/misc/tailadmin-youtube-main-demo.png" alt="TailAdmin Demo"/>
 </a>
-
-## Help
-
-If you need to help more than this documentation: 
- - You can join our [Discord Channel](https://discord.gg/TnjA2GqYmw) then ask your questions
- - Access to our [Tabbs page](https://tailadmin.tabbs.co/) for how to make links (Install in Linux, solution of the npm errors etc.)
 
 ## Featured :
 
@@ -95,46 +82,8 @@ If you need to help more than this documentation:
     - Between Input
 
 > :rocket:  We are going to make the big updates about app because this theme is using in our projects therefore the updates will be continuous
-
----
-
-### Partners and Sponsors
-
-
-> <a href="https://cleavr.io/" target="_blank"><img src="https://core.tailadmin.dev/img/misc/cleavr_io_07092021_07092022.jpg" style="width: 200px" alt="Cleavr"/><br>
-  Cleavr is your all-in-one server and deployment management platform for your PHP and NodeJS apps. Provision,
-deploy, monitor, backup, & more.
-</a>
-
-> :metal: If you want to support us, you can send a mail to us via [admin@tailadmin.dev](mailto:admin@tailadmin.dev)
-
----
-
 ### Major External Sources
 
 - [Tailwind](https://tailwindcss.com/)
 - [Vue](https://vuejs.org/)
 - [Fontawesome](https://fontawesome.com/)
-
-### Minor External Sources
-
-Please see package.json
-
----
-License
-------
-The TailAdmin is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-<p align="center">
-
-<a href="https://ko-fi.com/sinanaydogan" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-</a>
-
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/sinanaydogan">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sinanaydogan&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff">
-</a>
-</p>
